@@ -1,1 +1,4 @@
 npm install express mongoose cors dotenv
+PORT=3000
+JWT_SECRET=the-last
+MONGO_URI=mongodb://localhost:27017/sua-base
